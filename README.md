@@ -6,12 +6,16 @@
 
 
 # Investment Tracking
-* [GetQuin](https://getquin.com]
+* [GetQuin](https://getquin.com)
 * [TMOAP](https://themeasureofaplan.com/investment-portfolio-tracker/)
 * [Stock Events](https://stockevents.app/en)
 * [The Dividend Tracker](https://thedividendtracker.com) - Track Dividend Income
 
 
+# Crypto Tools
+* [CoinMarketCap](https://coinmarketcap.com) - Track cryptocurrencies and create portfolios
+* [CoinGecko](https://coingecko.com) - Track cryptocurrencies and create portfolios
 
 
-* [portfolio visualizer](https://portfoliovisualizer.com]
+add somewhere
+* [portfolio visualizer](https://portfoliovisualizer.com)
